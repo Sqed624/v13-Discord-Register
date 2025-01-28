@@ -1,31 +1,30 @@
 {
-    "token": "BOTUN TOKENI",
-    "prefix": "BOTUN ÖN EKİ ( örnek: ! )",
-    "voiceChannelID": "BOTUN ÇALIŞIRKEN KATILACAĞI SES KANALI ID",
+    "prefix": "=",
+    "voiceChannelID": "1333577527192457246",
 
 
     "presence": {
-        "name": "BOTUN AKTİVİTE DURUMUNDAKİ YAZI",
-        "type": "BOTUN AKTİVİTESİ ( örnek: WATCHING / PLAYING / LISTENING )"
+        "name": "GorilKayo 💞 Sapo",
+        "type": "WATCHING"
     },
 
     "rol": {
-        "booster": "BOOSTER ROL ID"
+        "booster": "1333586351022538846"
     },
 
     "kayıt": {
-        "kayıtsızID": "KAYITSIZ ROL ID",
-        "erkekID": "ERKEK ROL ID",
-        "kızID": "KIZ ROL ID",
-        "kayıtYetkiliID": "KAYIT YETKİLİSİ ROL ID",
+        "kayıtsızID": "1333405889511559178",
+        "erkekID": "1333586541595070494",
+        "kızID": "1333586573265993858",
+        "kayıtYetkiliID": "1333406026824814684",
 
-        "kayıtchatID": "KAYITLARIN YAPILDIĞI METIN KANALI ID",
+        "kayıtchatID": "1333406223327957095,
 
-        "tag": "KAYIT EDİLEN KULLANICILARIN ADININ BAŞINDA OLUCAK TAG ( ÖNEMLİ: bu alanı boş bırakmayın )",
-        "kayıtsızNick": "KATILAN YENİ ÜYELERE VEİRLECEK TAKMA AD ( ÖNEMLİ: kayıtsızlara takma ad vermek istemiyorsanız boş bırakabilirsiniz ) ( örnek: isim | yaş )"
+        "tag": "PvN",
+        "kayıtsızNick": "isim | yaş"
     },
 
     "emoji": {
-        "amblem": "SUNUCU AMBLEMİ EMOJİSİ ( örnek: <:star:924626488093999144> )"
+        "amblem": "🥂"
     }
 }
